@@ -3,6 +3,8 @@
 #
 # Jekyll Settings
 #
+baseurl: "/jekyll-pure"	
+url: "http://cuimingliang.github.io"
 #rdiscount解析器对于嵌入html javascript代码,为文章增加特定效果兼容较好
 markdown: rdiscount
 rdiscount:
