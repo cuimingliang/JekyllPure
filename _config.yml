@@ -1,10 +1,11 @@
 #production_url是sitemap.txt生成的url,方便百度谷歌收录
-production_url: http://liyouhai.com
+#production_url: http://liyouhai.com
 #
 # Jekyll Settings
 #
-#rdiscount解析器对于嵌入html javascript代码,为文章增加特定效果兼容较好
 baseurl:"/jekyll-pure"
+url:"http://cuimingliang.github.io"
+#rdiscount解析器对于嵌入html javascript代码,为文章增加特定效果兼容较好
 markdown: rdiscount
 rdiscount:
   extensions: [  "autolink", ]
