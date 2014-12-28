@@ -3,8 +3,6 @@
 #
 # Jekyll Settings
 #
-baseurl:"/jekyll-pure"
-url:"http://cuimingliang.github.io"
 #rdiscount解析器对于嵌入html javascript代码,为文章增加特定效果兼容较好
 markdown: rdiscount
 rdiscount:
@@ -13,7 +11,7 @@ markdown_ext:  markdown,mkd,mkdn,md
 highlighter: pygments
 permalink: /:categories/:title.html
 paginate: 7
-paginate_path: "/jekyll-pure/page/:num"
+paginate_path: "page/:num"
 exclude: [ "README.md",".idea",".iml",".name",".Node"]
 encoding: "utf-8"
 #在发布文章时使用一个未来的日期
