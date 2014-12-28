@@ -4,6 +4,7 @@ production_url: http://liyouhai.com
 # Jekyll Settings
 #
 #rdiscount解析器对于嵌入html javascript代码,为文章增加特定效果兼容较好
+baseurl:"/jekyll-pure"
 markdown: rdiscount
 rdiscount:
   extensions: [  "autolink", ]
