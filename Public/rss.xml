@@ -6,7 +6,7 @@ permalink: rss.xml
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>曾经不知你好</title>
+    <title>心当生希有</title>
     <link href="http://liyouhai.com/rss.xml" rel="self"/>
     <link href="http://liyouhai.com/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
